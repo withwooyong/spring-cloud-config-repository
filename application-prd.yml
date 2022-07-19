@@ -4,3 +4,5 @@ server:
 spring:
   application:
     name: config-prd
+message: 
+  prd: spring-cloud-config-application-prd

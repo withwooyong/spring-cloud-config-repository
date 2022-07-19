@@ -4,3 +4,5 @@ server:
 spring:
   application:
     name: config-stg
+message: 
+  config: spring-cloud-config-application-dev

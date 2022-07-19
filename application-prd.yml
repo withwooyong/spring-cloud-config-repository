@@ -5,4 +5,4 @@ spring:
   application:
     name: config-prd
 message: 
-  prd: spring-cloud-config-application-prd
+  config: spring-cloud-config-application-prd

@@ -5,4 +5,4 @@ spring:
   application:
     name: config-dev
 message: 
-  config: spring-cloud-config-application-dev-refresh
+  config: spring-cloud-config-application-dev-refresh2
